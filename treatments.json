@@ -1,0 +1,173 @@
+{
+  "Human_Safety_Protocol": {
+    "title": "🛡️ Human Safety First",
+    "required_checkboxes": [
+      "I am wearing my mask, long sleeves, and gloves.",
+      "The wind is calm, and I am standing with the wind at my back.",
+      "Children, pets, and food are removed from the spray area."
+    ],
+    "ppe_list": [
+      "N95 Mask or Respirator (Protect your lungs)",
+      "Chemical-resistant gloves (Nitrile is best)",
+      "Long-sleeved shirt and pants (Tucked into boots)",
+      "Wide-brimmed plastic hat (Protect head/neck)"
+    ],
+    "emergency_first_aid": {
+      "on_skin": "Drench skin with water for 15 mins. Remove clothes. Wash with soap.",
+      "in_eyes": "Hold eyelids open. Flush with clean water gently for 15 minutes.",
+      "inhaled": "Move to fresh air immediately. Loosen tight clothing.",
+      "swallowed": "Rinse mouth with water. Do NOT induce vomiting unless label says so."
+    }
+  },
+  "Tomato___Bacterial_spot": {
+    "diagnosis": {
+      "description": "Small, water-soaked greasy spots on leaves that turn brown/black with a yellow halo. Often caused by infected seeds or splashing water.",
+      "severity": "High - Can cause total defoliation and fruit scabbing if untreated."
+    },
+    "treatment": {
+      "chemical": "Copper-based fungicides (e.g., Kocide). Apply every 7-10 days in wet weather.",
+      "biological": "Serenade ASO (Bacillus subtilis). Best used as a preventative measure.",
+      "steps": "Spray in early morning before the sun is hot. Ensure full coverage of the underside of leaves."
+    },
+    "cultural": {
+      "sanitation": "Remove and burn infected leaves immediately. Do not leave them on the soil.",
+      "environment": "Avoid overhead irrigation; use drip lines. Increase plant spacing for better airflow."
+    },
+    "prevention": {
+      "rotation": "Do not plant tomatoes, peppers, or potatoes in this spot for 2-3 years.",
+      "varieties": "Use certified disease-free seeds. No 100% resistant variety is available yet."
+    }
+  },
+  "Tomato___Early_blight": {
+    "diagnosis": {
+      "description": "Distinctive 'target' or 'bullseye' spots (concentric rings) on older leaves near the ground.",
+      "severity": "Moderate to High - Spreads upwards and can reduce fruit yield significantly."
+    },
+    "treatment": {
+      "chemical": "Fungicides containing Chlorothalonil or Mancozeb. Apply at first sign of symptoms.",
+      "biological": "Neem oil sprays can help slow the spread in organic gardens.",
+      "steps": "Prune the lower leaves that touch the soil to prevent soil-to-leaf transmission."
+    },
+    "cultural": {
+      "sanitation": "Apply a layer of mulch (straw or plastic) to prevent soil spores from splashing onto leaves.",
+      "environment": "Water at the base of the plant. Keep foliage as dry as possible."
+    },
+    "prevention": {
+      "rotation": "Follow a 2-year rotation cycle away from Solanaceous crops.",
+      "varieties": "Look for varieties labeled 'EB' (Early Blight) resistant like Mountain Magic."
+    }
+  },
+  "Tomato___Late_blight": {
+    "diagnosis": {
+      "description": "Fast-moving disease with large, dark, water-soaked patches on leaves and stems. Can kill a plant in days.",
+      "severity": "CRITICAL - Extremely contagious. Can destroy an entire field in a week."
+    },
+    "treatment": {
+      "chemical": "Aggressive treatment with Ridomil Gold or fungicides containing Cyazofamid.",
+      "biological": "Organic copper sprays are less effective once the disease is established.",
+      "steps": "Check the local weather; high humidity and cool nights favor this disease. Act fast!"
+    },
+    "cultural": {
+      "sanitation": "IMMEDIATE ACTION: If infection is severe, bag the entire plant and remove it. Do not compost.",
+      "environment": "Improve drainage and ensure the area is not overcrowded."
+    },
+    "prevention": {
+      "rotation": "Eliminate 'volunteer' tomato plants and potato tubers that may carry spores over winter.",
+      "varieties": "Choose late-blight resistant hybrids like 'Defiant' or 'Iron Lady'."
+    }
+  },
+  "Tomato___Leaf_Mold": {
+    "diagnosis": {
+      "description": "Olive-green to brown velvety mold on the underside of leaves with yellow spots on top.",
+      "severity": "Moderate - Mostly affects greenhouse tomatoes with poor ventilation."
+    },
+    "treatment": {
+      "chemical": "Fungicides like Difenoconazole. Often, chemical control is not needed if air is dry.",
+      "biological": "Increase light exposure and reduce humidity below 85%.",
+      "steps": "Focus on horizontal airflow. Use fans in greenhouses to keep air moving."
+    },
+    "cultural": {
+      "sanitation": "Prune excess suckers to improve light penetration through the canopy.",
+      "environment": "Lower the humidity! This fungus cannot grow in dry conditions."
+    },
+    "prevention": {
+      "rotation": "Clean greenhouse structures thoroughly between seasons with a 10% bleach solution.",
+      "varieties": "Select varieties with high resistance to Fulvia fulva (Leaf Mold)."
+    }
+  },
+  "Tomato___healthy": {
+    "diagnosis": {
+      "description": "Vibrant green leaves, no spotting or wilting. The plant is performing optimal photosynthesis.",
+      "severity": "Excellent - Maintenance Mode."
+    },
+    "treatment": {
+      "chemical": "None needed. Avoid unnecessary chemical use to protect beneficial insects.",
+      "biological": "Apply compost tea or beneficial microbes to strengthen the root system.",
+      "steps": "Continue monitoring once a week for early signs of pests or disease."
+    },
+    "cultural": {
+      "sanitation": "Keep tools clean between handling different plants to avoid cross-contamination.",
+      "environment": "Maintain consistent moisture to prevent Blossom End Rot."
+    },
+    "prevention": {
+      "rotation": "Plan next year's crop layout now to ensure proper rotation.",
+      "varieties": "Record which varieties performed best this year for future success."
+    }
+  },
+  "Other___Tomato_disease": {
+    "Septoria_Leaf_Spot": {
+      "diagnosis": "Circular, greyish-white spots with dark borders. Starts on lower leaves.",
+      "treatment": {
+        "chemical": "Chlorothalonil or Copper-based fungicides. Apply every 7-14 days.",
+        "biological": "Baking soda spray (1 tbsp per gallon) or potassium bicarbonate.",
+        "steps": "Remove infected leaves immediately. Water at the base only to stop soil splash."
+      },
+      "prevention": "Stake plants to increase airflow and use mulch to keep soil away from leaves."
+    },
+    "Spider_Mites": {
+      "diagnosis": "Tiny yellow stippling (dots) on leaves and fine webbing on the undersides.",
+      "treatment": {
+        "chemical": "Abamectin or Bifenthrin-based miticides.",
+        "biological": "Neem oil or Insecticidal soaps. Release predatory mites (Phytoseiulus).",
+        "steps": "Blast the undersides of leaves with a strong water jet to dislodge mites."
+      },
+      "prevention": "Keep plants well-hydrated; mites love dry, dusty conditions."
+    },
+    "Yellow_Leaf_Curl_Virus": {
+      "diagnosis": "Leaves curl upwards, turn yellow at the edges, and look stunted/bushy.",
+      "treatment": {
+        "chemical": "No chemical cure for the virus. Use Imidacloprid to kill the Whiteflies that carry it.",
+        "biological": "Yellow sticky traps to catch Whiteflies. Neem oil sprays.",
+        "steps": "ROGUING: Immediately remove and burn infected plants to prevent the spread."
+      },
+      "prevention": "Use reflective silver mulch to repel Whiteflies. Plant resistant varieties."
+    },
+    "Powdery_Mildew": {
+      "diagnosis": "White, flour-like powder on leaves and stems. Leaves may turn yellow and die.",
+      "treatment": {
+        "chemical": "Sulfur-based fungicides or Triazoles (like Myclobutanil).",
+        "biological": "Milk spray (1 part milk to 9 parts water) or dilute apple cider vinegar.",
+        "steps": "Apply sprays in the early morning. Ensure full coverage of both leaf sides."
+      },
+      "prevention": "Increase spacing between plants for better air movement. Avoid high humidity."
+    },
+    "Mosaic_Virus": {
+      "diagnosis": "Mottled green/yellow patterns (mosaic), distorted 'fern-like' leaves.",
+      "treatment": {
+        "chemical": "No cure. Focus on disinfecting tools with 10% bleach solution.",
+        "biological": "None. Control aphids that can transmit the virus.",
+        "steps": "Do not smoke near plants (tobacco carries mosaic). Remove infected plants immediately."
+      },
+      "prevention": "Wash hands with soap before touching plants. Use certified virus-free seeds."
+    },
+    "Leaf_Miner": {
+      "diagnosis": "Slender, white, winding 'serpentine' tunnels inside the leaf tissue.",
+      "treatment": {
+        "chemical": "Spinosad or Abamectin. These penetrate the leaf to reach the larvae.",
+        "biological": "Neem oil or Parasitic wasps (Diglyphus isaea).",
+        "steps": "Squish the larvae inside the tunnels with your fingers if only a few leaves are affected."
+      },
+      "prevention": "Use row covers to stop adult flies from laying eggs on leaves. Clean up crop debris."
+    }
+  }
+}
