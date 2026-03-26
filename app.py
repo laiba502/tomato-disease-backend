@@ -119,7 +119,7 @@ device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
 # Load Gatekeeper
 gatekeeper = GatekeeperModel().to(device)
-gatekeeper.base.load_state_dict(torch.load('stage2_bestttTTT211_model.pth', map_location=device))
+gatekeeper.base.load_state_dict(torch.load('model/stage2_bestttTTT211_model.pth', map_location=device))
 gatekeeper.eval() # IMPORTANT for prediction
 
 GATEKEEPER_CLASSES = [
@@ -130,7 +130,7 @@ GATEKEEPER_CLASSES = [
 
 # Load Disease Doctor
 disease_doctor = DiseaseModel(NUM_CLASSES=6).to(device)
-disease_doctor.load_state_dict(torch.load('stage3_best_model22.pth', map_location=device))
+disease_doctor.load_state_dict(torch.load('model/stage3_best_model22.pth', map_location=device))
 disease_doctor.eval() # IMPORTANT for prediction
 
 DISEASE_CLASSES = [
